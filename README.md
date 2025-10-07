@@ -7,7 +7,6 @@
 🌱 Interested in **Web Development, Mobile Apps**.  
 
 ---
-<div align="center">
 
 ## 🛠️ Tech Stack  
 
@@ -58,4 +57,3 @@
 ---
 
 ✨ *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
-</div>
