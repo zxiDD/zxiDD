@@ -9,8 +9,7 @@
 ---
 
 ## 🛠️ Tech Stack  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react,androidstudio,cpp,java,docker,nodejs,express,firebase,flutter,dart,mysql,mongodb,postman,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,androidstudio,cpp,java,docker,nodejs,express,firebase,flutter,dart,mysql,mongodb,postman,redux)](https://skillicons.dev)
 ---
 
 ## 📊 GitHub Stats  
