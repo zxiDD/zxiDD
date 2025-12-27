@@ -12,13 +12,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,androidstudio,cpp,java,docker,nodejs,express,firebase,flutter,dart,mysql,mongodb,postman,redux)](https://skillicons.dev)
 ---
 
-## 📊 GitHub Stats  
-
-![Zaid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zxiDD&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zxiDD&layout=compact&theme=radical)  
-
----
-
 ## 🌐 Connect With Me  
 
 
